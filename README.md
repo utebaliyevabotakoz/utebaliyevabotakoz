@@ -3,6 +3,8 @@
  <h2 align="center"> My name is Botakoz. I'm QA automation engineer.</h2>
 
  <h5> I have successfully comleted the course in QA Automation school [QA.GURU](https://qa.guru). Here you can see my certifications in Rushian and English languages.
+ 
+ 
 
 In addition I attach my graduation work for UI, REST, mobile projects. The technology stack is as follows:</h5>
 
