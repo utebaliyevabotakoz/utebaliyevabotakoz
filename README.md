@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Botakoz. I'm QA automation engineer.
+
+I have successfully comleted the course in QA Automation school [QA.GURU](https://qa.guru). Here you can see my certifications in Rushian and English languages.
+
+In addition I attach my graduation work for UI, REST, mobile projects. The technology stack is as follows:
+
+
+
+
 <!--
 **utebaliyevabotakoz/utebaliyevabotakoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
