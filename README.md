@@ -2,7 +2,7 @@
 
  <h2 align="center"> My name is Botakoz. I'm QA automation engineer.</h2>
 
-  I have successfully comleted the course in QA Automation school [QA.GURU](https://qa.guru). Here you can see my certifications in [Rushian](https://github.com/utebaliyevabotakoz/utebaliyevabotakoz/blob/main/images/certs/Ru.PNG) and [English](https://github.com/utebaliyevabotakoz/utebaliyevabotakoz/blob/main/images/certs/En.PNG) languages.
+  I have successfully completed the course at QA Automation school [QA.GURU](https://qa.guru). Here you can see my certifications in [Rushian](https://github.com/utebaliyevabotakoz/utebaliyevabotakoz/blob/main/images/certs/Ru.PNG) and [English](https://github.com/utebaliyevabotakoz/utebaliyevabotakoz/blob/main/images/certs/En.PNG) languages.
 
 
 My graduation work consists:
