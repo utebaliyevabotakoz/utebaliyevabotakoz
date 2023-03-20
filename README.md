@@ -1,6 +1,6 @@
- <h2 align="center">  Hi there 👋 </h2>
+ <h1 align="center">  Hi there 👋 </h1>
 
-My name is Botakoz. I'm QA automation engineer.
+ <h2 align="center"> My name is Botakoz. I'm QA automation engineer.</h2>
 
 I have successfully comleted the course in QA Automation school [QA.GURU](https://qa.guru). Here you can see my certifications in Rushian and English languages.
 
