@@ -1,4 +1,4 @@
-### Hi there 👋
+ <h2 align="center">  Hi there 👋 </h2>
 
 My name is Botakoz. I'm QA automation engineer.
 
