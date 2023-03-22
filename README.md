@@ -2,11 +2,17 @@
 
  <h2 align="center"> My name is Botakoz. I'm QA automation engineer.</h2>
 
-  I have successfully comleted the course in QA Automation school [QA.GURU](https://qa.guru). Here you can see my certifications in Rushian and English languages.
- 
- 
+  I have successfully completed the course at QA Automation school [QA.GURU](https://qa.guru). Here you can see my certifications in [Rushian](https://github.com/utebaliyevabotakoz/utebaliyevabotakoz/blob/main/images/certs/Ru.PNG) and [English](https://github.com/utebaliyevabotakoz/utebaliyevabotakoz/blob/main/images/certs/En.PNG) languages.
 
-In addition I attach my graduation work for UI, REST, mobile projects. The technology stack is as follows:
+
+My graduation work consists:
+
+- [x] [Mobile project](https://github.com/utebaliyevabotakoz/project/tree/mobile)
+- [x] [REST-API](https://github.com/utebaliyevabotakoz/project_rest)
+- [x] [UI](https://github.com/utebaliyevabotakoz/project_ui)
+
+
+The technology stack is as follows:
 
 <p  align="center">
   <code><img width="5%" title="IntelliJ IDEA" src="./images/logo/Idea.png"></code>
@@ -27,6 +33,8 @@ In addition I attach my graduation work for UI, REST, mobile projects. The techn
   <code><img width="5%" title="Selenoid" src="./images/logo/selenoid-logo.PNG"></code>
 </p>
 
+<a href="https://t.me/Botakozutebaliyeva"><img width="2%" title="Telegram" src="./images/logo/Telegram.png"></a>
+[BotakozUtebaliyeva](https://t.me/Botakozutebaliyeva) </br>
 
 <!--
 **utebaliyevabotakoz/utebaliyevabotakoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
